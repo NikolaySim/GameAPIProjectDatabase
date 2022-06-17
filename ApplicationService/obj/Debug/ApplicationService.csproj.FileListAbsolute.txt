@@ -1,0 +1,137 @@
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022\ApplicationService\bin\Debug\ApplicationService.dll
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022\ApplicationService\bin\Debug\ApplicationService.pdb
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022\ApplicationService\obj\Debug\ApplicationService.csprojAssemblyReference.cache
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022\ApplicationService\obj\Debug\ApplicationService.csproj.CoreCompileInputs.cache
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022\ApplicationService\obj\Debug\ApplicationService.dll
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022\ApplicationService\obj\Debug\ApplicationService.pdb
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022\ApplicationService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022\ApplicationService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022\ApplicationService\obj\Debug\ApplicationService.csproj.CopyComplete
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022\ApplicationService\bin\Debug\ApplicationService.dll.config
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022\ApplicationService\bin\Debug\Data.dll
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022\ApplicationService\bin\Debug\EntityFramework.dll
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022\ApplicationService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022\ApplicationService\bin\Debug\Data.pdb
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022\ApplicationService\bin\Debug\Data.dll.config
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022\ApplicationService\bin\Debug\EntityFramework.xml
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022\ApplicationService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v3\ApplicationService\bin\Debug\ApplicationService.dll.config
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v3\ApplicationService\bin\Debug\ApplicationService.dll
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v3\ApplicationService\bin\Debug\ApplicationService.pdb
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v3\ApplicationService\bin\Debug\Data.dll
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v3\ApplicationService\bin\Debug\EntityFramework.dll
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v3\ApplicationService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v3\ApplicationService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v3\ApplicationService\bin\Debug\Repository.dll
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v3\ApplicationService\bin\Debug\Data.pdb
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v3\ApplicationService\bin\Debug\Data.dll.config
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v3\ApplicationService\bin\Debug\Repository.pdb
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v3\ApplicationService\bin\Debug\Repository.dll.config
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v3\ApplicationService\bin\Debug\EntityFramework.xml
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v3\ApplicationService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v3\ApplicationService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v3\ApplicationService\obj\Debug\ApplicationService.csprojAssemblyReference.cache
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v3\ApplicationService\obj\Debug\ApplicationService.csproj.CoreCompileInputs.cache
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v3\ApplicationService\obj\Debug\ApplicationService.csproj.CopyComplete
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v3\ApplicationService\obj\Debug\ApplicationService.dll
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v3\ApplicationService\obj\Debug\ApplicationService.pdb
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v3-2\ApplicationService\bin\Debug\ApplicationService.dll.config
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v3-2\ApplicationService\bin\Debug\ApplicationService.dll
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v3-2\ApplicationService\bin\Debug\ApplicationService.pdb
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v3-2\ApplicationService\bin\Debug\Data.dll
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v3-2\ApplicationService\bin\Debug\EntityFramework.dll
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v3-2\ApplicationService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v3-2\ApplicationService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v3-2\ApplicationService\bin\Debug\Repository.dll
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v3-2\ApplicationService\bin\Debug\Data.pdb
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v3-2\ApplicationService\bin\Debug\Data.dll.config
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v3-2\ApplicationService\bin\Debug\Repository.pdb
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v3-2\ApplicationService\bin\Debug\Repository.dll.config
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v3-2\ApplicationService\bin\Debug\EntityFramework.xml
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v3-2\ApplicationService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v3-2\ApplicationService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v3-2\ApplicationService\obj\Debug\ApplicationService.csprojAssemblyReference.cache
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v3-2\ApplicationService\obj\Debug\ApplicationService.csproj.CoreCompileInputs.cache
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v3-2\ApplicationService\obj\Debug\ApplicationService.csproj.CopyComplete
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v3-2\ApplicationService\obj\Debug\ApplicationService.dll
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v3-2\ApplicationService\obj\Debug\ApplicationService.pdb
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v4\ApplicationService\bin\Debug\ApplicationService.dll.config
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v4\ApplicationService\bin\Debug\ApplicationService.dll
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v4\ApplicationService\bin\Debug\ApplicationService.pdb
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v4\ApplicationService\bin\Debug\Data.dll
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v4\ApplicationService\bin\Debug\EntityFramework.dll
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v4\ApplicationService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v4\ApplicationService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v4\ApplicationService\bin\Debug\Repository.dll
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v4\ApplicationService\bin\Debug\Data.pdb
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v4\ApplicationService\bin\Debug\Data.dll.config
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v4\ApplicationService\bin\Debug\Repository.pdb
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v4\ApplicationService\bin\Debug\Repository.dll.config
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v4\ApplicationService\bin\Debug\EntityFramework.xml
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v4\ApplicationService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v4\ApplicationService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v4\ApplicationService\obj\Debug\ApplicationService.csprojAssemblyReference.cache
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v4\ApplicationService\obj\Debug\ApplicationService.csproj.CoreCompileInputs.cache
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v4\ApplicationService\obj\Debug\ApplicationService.csproj.CopyComplete
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v4\ApplicationService\obj\Debug\ApplicationService.dll
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v4\ApplicationService\obj\Debug\ApplicationService.pdb
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v4-2\ApplicationService\bin\Debug\ApplicationService.dll.config
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v4-2\ApplicationService\bin\Debug\ApplicationService.dll
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v4-2\ApplicationService\bin\Debug\ApplicationService.pdb
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v4-2\ApplicationService\bin\Debug\Data.dll
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v4-2\ApplicationService\bin\Debug\EntityFramework.dll
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v4-2\ApplicationService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v4-2\ApplicationService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v4-2\ApplicationService\bin\Debug\Repository.dll
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v4-2\ApplicationService\bin\Debug\Data.pdb
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v4-2\ApplicationService\bin\Debug\Data.dll.config
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v4-2\ApplicationService\bin\Debug\Repository.pdb
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v4-2\ApplicationService\bin\Debug\Repository.dll.config
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v4-2\ApplicationService\bin\Debug\EntityFramework.xml
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v4-2\ApplicationService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v4-2\ApplicationService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v4-2\ApplicationService\obj\Debug\ApplicationService.csprojAssemblyReference.cache
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v4-2\ApplicationService\obj\Debug\ApplicationService.csproj.CoreCompileInputs.cache
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v4-2\ApplicationService\obj\Debug\ApplicationService.csproj.CopyComplete
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v4-2\ApplicationService\obj\Debug\ApplicationService.dll
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v4-2\ApplicationService\obj\Debug\ApplicationService.pdb
+C:\Users\Viktor\Documents\WcfServiceLibrary2022-v5\ApplicationService\bin\Debug\ApplicationService.dll.config
+C:\Users\Viktor\Documents\WcfServiceLibrary2022-v5\ApplicationService\bin\Debug\ApplicationService.dll
+C:\Users\Viktor\Documents\WcfServiceLibrary2022-v5\ApplicationService\bin\Debug\ApplicationService.pdb
+C:\Users\Viktor\Documents\WcfServiceLibrary2022-v5\ApplicationService\bin\Debug\Data.dll
+C:\Users\Viktor\Documents\WcfServiceLibrary2022-v5\ApplicationService\bin\Debug\EntityFramework.dll
+C:\Users\Viktor\Documents\WcfServiceLibrary2022-v5\ApplicationService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Viktor\Documents\WcfServiceLibrary2022-v5\ApplicationService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Viktor\Documents\WcfServiceLibrary2022-v5\ApplicationService\bin\Debug\Repository.dll
+C:\Users\Viktor\Documents\WcfServiceLibrary2022-v5\ApplicationService\bin\Debug\Data.pdb
+C:\Users\Viktor\Documents\WcfServiceLibrary2022-v5\ApplicationService\bin\Debug\Data.dll.config
+C:\Users\Viktor\Documents\WcfServiceLibrary2022-v5\ApplicationService\bin\Debug\Repository.pdb
+C:\Users\Viktor\Documents\WcfServiceLibrary2022-v5\ApplicationService\bin\Debug\Repository.dll.config
+C:\Users\Viktor\Documents\WcfServiceLibrary2022-v5\ApplicationService\bin\Debug\EntityFramework.xml
+C:\Users\Viktor\Documents\WcfServiceLibrary2022-v5\ApplicationService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Viktor\Documents\WcfServiceLibrary2022-v5\ApplicationService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Viktor\Documents\WcfServiceLibrary2022-v5\ApplicationService\obj\Debug\ApplicationService.csprojAssemblyReference.cache
+C:\Users\Viktor\Documents\WcfServiceLibrary2022-v5\ApplicationService\obj\Debug\ApplicationService.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Documents\WcfServiceLibrary2022-v5\ApplicationService\obj\Debug\ApplicationService.csproj.CopyComplete
+C:\Users\Viktor\Documents\WcfServiceLibrary2022-v5\ApplicationService\obj\Debug\ApplicationService.dll
+C:\Users\Viktor\Documents\WcfServiceLibrary2022-v5\ApplicationService\obj\Debug\ApplicationService.pdb
+C:\Users\nikis\Desktop\studies\applications of distribution\WcfServiceLibrary2022-v5_2\WcfServiceLibrary2022-v5\ApplicationService\bin\Debug\ApplicationService.dll.config
+C:\Users\nikis\Desktop\studies\applications of distribution\WcfServiceLibrary2022-v5_2\WcfServiceLibrary2022-v5\ApplicationService\bin\Debug\ApplicationService.dll
+C:\Users\nikis\Desktop\studies\applications of distribution\WcfServiceLibrary2022-v5_2\WcfServiceLibrary2022-v5\ApplicationService\bin\Debug\ApplicationService.pdb
+C:\Users\nikis\Desktop\studies\applications of distribution\WcfServiceLibrary2022-v5_2\WcfServiceLibrary2022-v5\ApplicationService\bin\Debug\Data.dll
+C:\Users\nikis\Desktop\studies\applications of distribution\WcfServiceLibrary2022-v5_2\WcfServiceLibrary2022-v5\ApplicationService\bin\Debug\EntityFramework.dll
+C:\Users\nikis\Desktop\studies\applications of distribution\WcfServiceLibrary2022-v5_2\WcfServiceLibrary2022-v5\ApplicationService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nikis\Desktop\studies\applications of distribution\WcfServiceLibrary2022-v5_2\WcfServiceLibrary2022-v5\ApplicationService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nikis\Desktop\studies\applications of distribution\WcfServiceLibrary2022-v5_2\WcfServiceLibrary2022-v5\ApplicationService\bin\Debug\Repository.dll
+C:\Users\nikis\Desktop\studies\applications of distribution\WcfServiceLibrary2022-v5_2\WcfServiceLibrary2022-v5\ApplicationService\bin\Debug\Data.pdb
+C:\Users\nikis\Desktop\studies\applications of distribution\WcfServiceLibrary2022-v5_2\WcfServiceLibrary2022-v5\ApplicationService\bin\Debug\Data.dll.config
+C:\Users\nikis\Desktop\studies\applications of distribution\WcfServiceLibrary2022-v5_2\WcfServiceLibrary2022-v5\ApplicationService\bin\Debug\Repository.pdb
+C:\Users\nikis\Desktop\studies\applications of distribution\WcfServiceLibrary2022-v5_2\WcfServiceLibrary2022-v5\ApplicationService\bin\Debug\Repository.dll.config
+C:\Users\nikis\Desktop\studies\applications of distribution\WcfServiceLibrary2022-v5_2\WcfServiceLibrary2022-v5\ApplicationService\bin\Debug\EntityFramework.xml
+C:\Users\nikis\Desktop\studies\applications of distribution\WcfServiceLibrary2022-v5_2\WcfServiceLibrary2022-v5\ApplicationService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nikis\Desktop\studies\applications of distribution\WcfServiceLibrary2022-v5_2\WcfServiceLibrary2022-v5\ApplicationService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nikis\Desktop\studies\applications of distribution\WcfServiceLibrary2022-v5_2\WcfServiceLibrary2022-v5\ApplicationService\obj\Debug\ApplicationService.csprojAssemblyReference.cache
+C:\Users\nikis\Desktop\studies\applications of distribution\WcfServiceLibrary2022-v5_2\WcfServiceLibrary2022-v5\ApplicationService\obj\Debug\ApplicationService.csproj.CoreCompileInputs.cache
+C:\Users\nikis\Desktop\studies\applications of distribution\WcfServiceLibrary2022-v5_2\WcfServiceLibrary2022-v5\ApplicationService\obj\Debug\ApplicationService.csproj.CopyComplete
+C:\Users\nikis\Desktop\studies\applications of distribution\WcfServiceLibrary2022-v5_2\WcfServiceLibrary2022-v5\ApplicationService\obj\Debug\ApplicationService.dll
+C:\Users\nikis\Desktop\studies\applications of distribution\WcfServiceLibrary2022-v5_2\WcfServiceLibrary2022-v5\ApplicationService\obj\Debug\ApplicationService.pdb
