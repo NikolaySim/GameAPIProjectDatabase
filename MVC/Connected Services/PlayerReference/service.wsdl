@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Student" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import namespace="http://tempuri.org/" />
+      <xsd:import namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import namespace="http://schemas.datacontract.org/2004/07/ApplicationService.DTOs" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IPlayer_Message_InputMessage">
+    <wsdl:part name="parameters" element="tns:Message" />
+  </wsdl:message>
+  <wsdl:message name="IPlayer_Message_OutputMessage">
+    <wsdl:part name="parameters" element="tns:MessageResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPlayer_GetPlayers_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetPlayers" />
+  </wsdl:message>
+  <wsdl:message name="IPlayer_GetPlayers_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetPlayersResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPlayer_GetPlayerByID_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetPlayerByID" />
+  </wsdl:message>
+  <wsdl:message name="IPlayer_GetPlayerByID_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetPlayerByIDResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPlayer_PostPlayer_InputMessage">
+    <wsdl:part name="parameters" element="tns:PostPlayer" />
+  </wsdl:message>
+  <wsdl:message name="IPlayer_PostPlayer_OutputMessage">
+    <wsdl:part name="parameters" element="tns:PostPlayerResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPlayer_PutPlayer_InputMessage">
+    <wsdl:part name="parameters" element="tns:PutPlayer" />
+  </wsdl:message>
+  <wsdl:message name="IPlayer_PutPlayer_OutputMessage">
+    <wsdl:part name="parameters" element="tns:PutPlayerResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPlayer_DeletePlayer_InputMessage">
+    <wsdl:part name="parameters" element="tns:DeletePlayer" />
+  </wsdl:message>
+  <wsdl:message name="IPlayer_DeletePlayer_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DeletePlayerResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IPlayer">
+    <wsdl:operation name="Message">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPlayer/Message" message="tns:IPlayer_Message_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPlayer/MessageResponse" message="tns:IPlayer_Message_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetPlayers">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPlayer/GetPlayers" message="tns:IPlayer_GetPlayers_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPlayer/GetPlayersResponse" message="tns:IPlayer_GetPlayers_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetPlayerByID">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPlayer/GetPlayerByID" message="tns:IPlayer_GetPlayerByID_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPlayer/GetPlayerByIDResponse" message="tns:IPlayer_GetPlayerByID_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="PostPlayer">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPlayer/PostPlayer" message="tns:IPlayer_PostPlayer_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPlayer/PostPlayerResponse" message="tns:IPlayer_PostPlayer_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="PutPlayer">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPlayer/PutPlayer" message="tns:IPlayer_PutPlayer_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPlayer/PutPlayerResponse" message="tns:IPlayer_PutPlayer_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DeletePlayer">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPlayer/DeletePlayer" message="tns:IPlayer_DeletePlayer_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPlayer/DeletePlayerResponse" message="tns:IPlayer_DeletePlayer_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IPlayer" type="tns:IPlayer">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="Message">
+      <soap:operation soapAction="http://tempuri.org/IPlayer/Message" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetPlayers">
+      <soap:operation soapAction="http://tempuri.org/IPlayer/GetPlayers" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetPlayerByID">
+      <soap:operation soapAction="http://tempuri.org/IPlayer/GetPlayerByID" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="PostPlayer">
+      <soap:operation soapAction="http://tempuri.org/IPlayer/PostPlayer" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="PutPlayer">
+      <soap:operation soapAction="http://tempuri.org/IPlayer/PutPlayer" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeletePlayer">
+      <soap:operation soapAction="http://tempuri.org/IPlayer/DeletePlayer" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Student">
+    <wsdl:port name="BasicHttpBinding_IPlayer" binding="tns:BasicHttpBinding_IPlayer">
+      <soap:address location="http://localhost:8733/Design_Time_Addresses/WcfServiceLibrary2022/Student/" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>
