@@ -1,0 +1,71 @@
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022\Data\bin\Debug\Data.dll.config
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022\Data\bin\Debug\Data.dll
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022\Data\bin\Debug\Data.pdb
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022\Data\bin\Debug\EntityFramework.dll
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022\Data\bin\Debug\EntityFramework.xml
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022\Data\obj\Debug\Data.dll
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022\Data\obj\Debug\Data.pdb
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v3-2\Data\bin\Debug\Data.dll.config
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v3-2\Data\bin\Debug\Data.dll
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v3-2\Data\bin\Debug\Data.pdb
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v3-2\Data\bin\Debug\EntityFramework.dll
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v3-2\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v3-2\Data\bin\Debug\EntityFramework.xml
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v3-2\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v3-2\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v3-2\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v3-2\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v3-2\Data\obj\Debug\Data.dll
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v3-2\Data\obj\Debug\Data.pdb
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v3-2\Data\obj\Debug\Data.Migrations.InitialCreate.resources
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v3-2\Data\obj\Debug\Data.csproj.GenerateResource.cache
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v3-2\Data\obj\Debug\Data.Migrations.FirstChange.resources
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v4-2\Data\bin\Debug\Data.dll.config
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v4-2\Data\bin\Debug\Data.dll
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v4-2\Data\bin\Debug\Data.pdb
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v4-2\Data\bin\Debug\EntityFramework.dll
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v4-2\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v4-2\Data\bin\Debug\EntityFramework.xml
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v4-2\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v4-2\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v4-2\Data\obj\Debug\Data.Migrations.InitialCreate.resources
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v4-2\Data\obj\Debug\Data.Migrations.FirstChange.resources
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v4-2\Data\obj\Debug\Data.csproj.GenerateResource.cache
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v4-2\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v4-2\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v4-2\Data\obj\Debug\Data.dll
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v4-2\Data\obj\Debug\Data.pdb
+C:\Users\Viktor Matanski\source\repos\WcfServiceLibrary2022-v4-2\Data\obj\Debug\Data.Migrations.AddedStudents.resources
+C:\Users\Viktor\Documents\WcfServiceLibrary2022-v5\Data\bin\Debug\Data.dll.config
+C:\Users\Viktor\Documents\WcfServiceLibrary2022-v5\Data\bin\Debug\Data.dll
+C:\Users\Viktor\Documents\WcfServiceLibrary2022-v5\Data\bin\Debug\Data.pdb
+C:\Users\Viktor\Documents\WcfServiceLibrary2022-v5\Data\bin\Debug\EntityFramework.dll
+C:\Users\Viktor\Documents\WcfServiceLibrary2022-v5\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Viktor\Documents\WcfServiceLibrary2022-v5\Data\bin\Debug\EntityFramework.xml
+C:\Users\Viktor\Documents\WcfServiceLibrary2022-v5\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Viktor\Documents\WcfServiceLibrary2022-v5\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\Viktor\Documents\WcfServiceLibrary2022-v5\Data\obj\Debug\Data.Migrations.InitialCreate.resources
+C:\Users\Viktor\Documents\WcfServiceLibrary2022-v5\Data\obj\Debug\Data.Migrations.FirstChange.resources
+C:\Users\Viktor\Documents\WcfServiceLibrary2022-v5\Data\obj\Debug\Data.Migrations.AddedStudents.resources
+C:\Users\Viktor\Documents\WcfServiceLibrary2022-v5\Data\obj\Debug\Data.csproj.GenerateResource.cache
+C:\Users\Viktor\Documents\WcfServiceLibrary2022-v5\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Documents\WcfServiceLibrary2022-v5\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\Viktor\Documents\WcfServiceLibrary2022-v5\Data\obj\Debug\Data.dll
+C:\Users\Viktor\Documents\WcfServiceLibrary2022-v5\Data\obj\Debug\Data.pdb
+C:\Users\nikis\Desktop\studies\applications of distribution\WcfServiceLibrary2022-v5_2\WcfServiceLibrary2022-v5\Data\bin\Debug\Data.dll.config
+C:\Users\nikis\Desktop\studies\applications of distribution\WcfServiceLibrary2022-v5_2\WcfServiceLibrary2022-v5\Data\bin\Debug\Data.dll
+C:\Users\nikis\Desktop\studies\applications of distribution\WcfServiceLibrary2022-v5_2\WcfServiceLibrary2022-v5\Data\bin\Debug\Data.pdb
+C:\Users\nikis\Desktop\studies\applications of distribution\WcfServiceLibrary2022-v5_2\WcfServiceLibrary2022-v5\Data\bin\Debug\EntityFramework.dll
+C:\Users\nikis\Desktop\studies\applications of distribution\WcfServiceLibrary2022-v5_2\WcfServiceLibrary2022-v5\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nikis\Desktop\studies\applications of distribution\WcfServiceLibrary2022-v5_2\WcfServiceLibrary2022-v5\Data\bin\Debug\EntityFramework.xml
+C:\Users\nikis\Desktop\studies\applications of distribution\WcfServiceLibrary2022-v5_2\WcfServiceLibrary2022-v5\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nikis\Desktop\studies\applications of distribution\WcfServiceLibrary2022-v5_2\WcfServiceLibrary2022-v5\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\nikis\Desktop\studies\applications of distribution\WcfServiceLibrary2022-v5_2\WcfServiceLibrary2022-v5\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\nikis\Desktop\studies\applications of distribution\WcfServiceLibrary2022-v5_2\WcfServiceLibrary2022-v5\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\nikis\Desktop\studies\applications of distribution\WcfServiceLibrary2022-v5_2\WcfServiceLibrary2022-v5\Data\obj\Debug\Data.dll
+C:\Users\nikis\Desktop\studies\applications of distribution\WcfServiceLibrary2022-v5_2\WcfServiceLibrary2022-v5\Data\obj\Debug\Data.pdb
